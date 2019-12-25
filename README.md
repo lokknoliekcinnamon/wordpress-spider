@@ -1,6 +1,6 @@
 # Wordpress spider
 
-Wordpress spider is the shit. So python. Much crawling. 
+So python. Much crawling. 
 
 Recursively crawls /wp-content/uploads pages for given domains 
 and saves .php files. 
